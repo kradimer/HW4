@@ -1,0 +1,13 @@
+---
+title: "HW4 Problem 1"
+author: "Kelly Radimer"
+date: "6/29/2020"
+output:
+  word_document: default
+---
+
+I'm learning to use GitHub repositories!
+
+Let's see if I can commit.
+
+https://github.com/kradimer/HW4
