@@ -6,7 +6,7 @@ output:
   word_document: default
 ---
 
-I'm learning to use GitHub repositories!
+I'm learning to use GitHub repositories.
 
 Let's see if I can commit.
 
