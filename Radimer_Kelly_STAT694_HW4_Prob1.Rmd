@@ -1,0 +1,10 @@
+---
+title: "HW4 Problem 1"
+author: "Kelly Radimer"
+date: "6/29/2020"
+output: pdf_document
+---
+
+I'm learning to use GitHub repositories! :)
+
+https://github.com/kradimer/HW4
